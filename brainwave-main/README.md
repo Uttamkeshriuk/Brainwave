@@ -25,5 +25,5 @@ Check out the live demo: [Your Netlify or GitHub Pages link]
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/brainwave.git
+git clone https://github.com/Uttamkeshriuk/brainwave.git
 cd brainwave
